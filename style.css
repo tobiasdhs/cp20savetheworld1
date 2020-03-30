@@ -10,3 +10,11 @@ img {
 h1 {
   color: green;
 }
+
+#first {
+  color = red;
+}  
+
+.other {
+  color: blue;
+}  
